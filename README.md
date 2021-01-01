@@ -2,7 +2,7 @@
 
 Reglas para la comunidad y subcomunidades dentro de DSRP
 
-## Reglas generales:
+## :octocat: Reglas generales :octocat:
 
 - ⚠️Ban por spam, stickers, incitación al odio (insultos, xenofobia,etc).
 - ⚠️Ofertas laborales al correo.
@@ -17,6 +17,6 @@ Reglas para la comunidad y subcomunidades dentro de DSRP
 4. Realidad Nacional
 5. Proyectos sociales
 
-## ⚠ En caso de Ofertas laborales
+## ⚠ En caso de Ofertas laborales ⚠
 
 Enviar un correo a informes@datascience.pe. Se publicará en www.datascience.pe .
