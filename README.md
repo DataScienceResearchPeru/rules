@@ -2,6 +2,12 @@
 
 Reglas para la comunidad y subcomunidades dentro de DSRP
 
+## Reglas generales:
+
+- ⚠️Ban por spam, stickers, incitación al odio (insultos, xenofobia,etc).
+- ⚠️Ofertas laborales al correo.
+- ⚠️Prohibido farándula.
+- 🚫Publicidad de marcas, empresas con fines de lucro o similares.
 
 ## 👩‍💻 Temas permitidos en los grupos de Whatsapp  👩‍💻
 
@@ -14,10 +20,3 @@ Reglas para la comunidad y subcomunidades dentro de DSRP
 ## ⚠ En caso de Ofertas laborales
 
 Enviar un correo a informes@datascience.pe. Se publicará en www.datascience.pe .
-
-## Reglas generales:
-
-⚠️Ban por spam, stickers, incitación al odio (insultos, xenofobia,etc).
-⚠️Ofertas laborales al correo.
-⚠️Prohibido farándula.
-🚫Publicidad de marcas, empresas con fines de lucro o similares.
