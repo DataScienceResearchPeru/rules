@@ -19,4 +19,4 @@ Reglas para la comunidad y subcomunidades dentro de DSRP
 
 ## ⚠ En caso de Ofertas laborales ⚠
 
-Enviar un correo a informes@datascience.pe. Se publicará en www.datascience.pe .
+Enviar un correo a informes@datascience(.)pe. Se publicará en www.datascience.pe .
