@@ -10,6 +10,8 @@ Reglas para la comunidad y subcomunidades dentro de DSRP
   - Respeto: insultos, xenofobia e incitación al odio.
   - Temas prohibidos: farándula.
   - Publicidad de marcas, empresas, servicios con fines de lucro o similares.
+  - Proselitismo político.
+  
 - No compartir ofertas laborales*
 
 
