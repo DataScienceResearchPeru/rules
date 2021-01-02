@@ -4,10 +4,16 @@ Reglas para la comunidad y subcomunidades dentro de DSRP
 
 ## :octocat: Reglas generales :octocat:
 
-- ⚠️Ban por spam, stickers, incitación al odio (insultos, xenofobia,etc).
-- ⚠️Ofertas laborales al correo.
-- ⚠️Prohibido farándula.
-- 🚫Publicidad de marcas, empresas con fines de lucro o similares.
+- ⚠️Razones de Ban⚠️ 
+  - Spamm: mensajes reenviados, cadenas de texto, stickers seguidos.
+  - Venta y compra de divisas y criptomonedas.
+  - Respeto: insultos, xenofobia e incitación al odio.
+  - Temas prohibidos: farándula.
+  - Publicidad de marcas, empresas, servicios con fines de lucro o similares.
+- No compartir ofertas laborales*
+
+
+*Ver último inciso
 
 ## 👩‍💻 Temas permitidos en los grupos de Whatsapp  👩‍💻
 
