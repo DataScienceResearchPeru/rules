@@ -14,6 +14,7 @@ Reglas para la comunidad y subcomunidades dentro de DSRP
 
 
 *Ver último inciso.
+
 **Los administrador de cada grupo toman la decisión de separar o no miembros de los grupos en base a estas reglas.
 
 ## 👩‍💻 Temas permitidos en los grupos de Whatsapp  👩‍💻
