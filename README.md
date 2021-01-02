@@ -7,7 +7,7 @@ Reglas para la comunidad y subcomunidades dentro de DSRP
 - ⚠️Razones de Ban⚠️ 
   - Spamm: mensajes reenviados, cadenas de texto, stickers seguidos.
   - Venta y compra de divisas y criptomonedas.
-  - Respeto: insultos, xenofobia e incitación al odio.
+  - Respeto: insultos, xenofobia, incitación al odio o discriminación.
   - Temas prohibidos: farándula.
   - Publicidad de marcas, empresas, servicios con fines de lucro o similares.
   - Proselitismo político.
