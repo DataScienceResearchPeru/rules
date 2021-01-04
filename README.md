@@ -22,13 +22,18 @@ Reglas para la comunidad y subcomunidades de Data Science Research Perú (FB,WZ,
 
 >**Los administrador de cada grupo toman la decisión de separar o no miembros de los grupos en base a estas reglas.
 
-## 👩‍💻 Temas permitidos en los grupos de Whatsapp  👩‍💻
+## 👩‍💻 Temas permitidos en los grupos moderados por DSRP 👩‍💻
 
 1. Ciencia de datos
 2. Inteligencia Artificial
 3. Tecnologías 4.0
 4. Realidad Nacional
 5. Proyectos sociales
+
+## Código de conducta
+
+Acorde a [Contributor Covenant](CC.md)
+
 
 ## ⚠ En caso de Ofertas laborales ⚠
 
