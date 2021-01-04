@@ -1,4 +1,4 @@
-# Reglas
+# Reglas _2021-01-04_
 
 Reglas para la comunidad y subcomunidades dentro de DSRP
 
