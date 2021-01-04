@@ -11,6 +11,7 @@ Reglas para la comunidad y subcomunidades dentro de DSRP
   - Temas prohibidos: farándula.
   - Publicidad de marcas, empresas, servicios con fines de lucro o similares.
   - Proselitismo político.
+  - Contenido pornográfico o enlaces a sitios de este tipo.
   
 - No compartir ofertas laborales*
 
