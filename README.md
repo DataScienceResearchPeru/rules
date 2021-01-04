@@ -1,5 +1,7 @@
 # Reglas _2021-01-04_
 
+![](DSRP.png)
+
 Reglas para la comunidad y subcomunidades dentro de DSRP
 
 ## :octocat: Reglas generales :octocat:
