@@ -32,7 +32,7 @@ Reglas para la comunidad y subcomunidades de Data Science Research Perú (FB,WZ,
 
 ## Código de conducta
 
-Acorde a [Contributor Covenant](CC.md)
+Acorde a Contributor Covenant. Ver en [español](CC_es.md) o [inglés](CC_us.md)
 
 
 ## ⚠ En caso de Ofertas laborales ⚠
