@@ -2,7 +2,7 @@
 
 ![](DSRP.png)
 
-Reglas para la comunidad y subcomunidades dentro de DSRP
+Reglas para la comunidad y subcomunidades de Data Science Research Perú (FB,WZ,TG,IG,SL)
 
 ## :octocat: Reglas generales :octocat:
 
