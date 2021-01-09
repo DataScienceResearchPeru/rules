@@ -30,7 +30,7 @@ Reglas para la comunidad y subcomunidades de Data Science Research Perú (FB,WZ,
 4. Realidad Nacional
 5. Proyectos sociales
 
-## Código de conducta
+## Código de conducta específico
 
 Acorde a Contributor Covenant. Ver en [español](CC_es.md) o [inglés](CC_us.md)
 
